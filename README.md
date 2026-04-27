@@ -154,14 +154,6 @@ Example:
 
 ---
 
-## 👩‍💻 Author
-
-**Sarasi Perera**
-Undergraduate – Faculty of Computing
-University of Sri Jayewardenepura
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
