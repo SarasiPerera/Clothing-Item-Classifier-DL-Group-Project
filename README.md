@@ -107,7 +107,7 @@ python -m src.evaluate
 ### 🔹 Run the Streamlit app
 
 ```bash
-streamlit run app/app.py
+streamlit run app.py
 ```
 
 ---
